@@ -1,0 +1,1 @@
+# Rawgar-Core-Podspec
